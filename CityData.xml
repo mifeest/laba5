@@ -1,0 +1,35 @@
+<cities>
+    <city>
+        <name>msk</name>
+        <id>1758102</id>
+        <coordinates>
+            <x>100</x>
+            <y>200.5</y>
+        </coordinates>
+        <standardOfLiving>HIGH</standardOfLiving>
+        <population>15000000</population>
+        <area>777</area>
+        <metersAboveSeaLevel>4567</metersAboveSeaLevel>
+        <age>8</age>
+        <timezone>-1</timezone>
+        <creationDate>Fri Mar 22 20:06:12 MSK 2024</creationDate>
+
+    </city>
+    <city>
+        <name>spb</name>
+        <id>121</id>
+        <coordinates>
+            <x>1032</x>
+            <y>21100.5</y>
+        </coordinates>
+        <standardOfLiving>HIGH</standardOfLiving>
+        <carcode>777</carcode>
+        <population>15000000</population>
+        <area>7727</area>
+        <metersAboveSeaLevel>456</metersAboveSeaLevel>
+        <age>8</age>
+        <timezone>-10</timezone>
+        <creationDate>Fri Mar 22 20:06:12 MSK 2024</creationDate>
+
+    </city>
+</cities>
